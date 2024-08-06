@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="higurashi09473@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
+  </a>
 </p>
 
 ### Languages and Tools:
@@ -11,3 +16,7 @@
 <a href="https://github.com/Higurashi09473" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /> </a>
 <br />
 <br />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higurashi09473&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
+</p>
