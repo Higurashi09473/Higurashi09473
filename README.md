@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilya</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="higurashi09473@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
