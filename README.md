@@ -3,7 +3,7 @@
 <p align="left">
   <a href="higurashi09473@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
+  <a href="https://leetcode.com/u/higurashi4/"  target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
   </a>
 </p>
