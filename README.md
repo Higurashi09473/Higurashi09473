@@ -6,7 +6,7 @@
 
 - **Containers**: `Docker`, `Kubernetes`
 
-- **Tools and etc**: `Git`, `gRPS`
+- **Tools and etc**: `Git`, `gRPC`
 
 ## Contacts
 
