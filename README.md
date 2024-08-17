@@ -8,7 +8,7 @@
 
 - **Tools and etc**: `Git`, `gRPC`
 
-- **Go tools**: `slog`, `chi`, `NATS`, ``
+- **Go tools**: `slog`, `chi`, `echo`, `NATS`
 
 ## Contacts
 
