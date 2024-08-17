@@ -8,6 +8,8 @@
 
 - **Tools and etc**: `Git`, `gRPC`
 
+- **Go tools**: `slog`, `chi`, `NATS????`, ``
+
 ## Contacts
 
 - **Email**: [higurashi09473@gmail.com](higurashi09473@gmail.com)
