@@ -6,9 +6,8 @@
 
 - **Containers**: `Docker`, `Kubernetes`
 
-- **Tools and etc**: `Git`, `gRPC`
+- **Tools and etc**: `Git`, `Github`
 
-- **Go tools**: `slog`, `chi`, `echo`, `NATS`
 
 ## Contacts
 
