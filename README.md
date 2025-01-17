@@ -17,7 +17,7 @@
 
 ## Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Higurashi4?theme=auto&font=baloo&extension=null)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/higurashi4)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higurashi09473&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
