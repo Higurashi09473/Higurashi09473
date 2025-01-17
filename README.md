@@ -16,8 +16,7 @@
 - **LeetCode**: [higurashi](https://leetcode.com/u/higurashi4/)
 
 ## Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/higurashi4)
+![https://leetcode.com/u/higurashi4/](https://leetcard.jacoblin.cool/higurashi4?border=0&radius=20)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higurashi09473&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
