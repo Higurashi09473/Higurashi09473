@@ -2,7 +2,7 @@
 
 - **Backend**: `Go` (main), `C# (ASP.NET Core)`, `Python`
 
-- **Databases**: `PostgreSQL`, `MySQL`
+- **Databases**: `PostgreSQL`, `MySQL`, `SQLite`
 
 - **Containers**: `Docker`, `Kubernetes`
 
