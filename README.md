@@ -1,7 +1,9 @@
 ## Skills
 
-- **Backend**: `Go` (main), `C# (ASP.NET Core)`, `Python`
-
+- **Backend**: `Go`, `Python`
+  
+- **Frontend**: `React`, `Javascript`
+  
 - **Databases**: `PostgreSQL`, `MySQL`, `SQLite`
 
 - **Containers**: `Docker`, `Kubernetes`
