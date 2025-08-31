@@ -1,1 +1,1 @@
-![](https://leetcard.jacoblin.cool/higurashi?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Higurashi?theme=catppuccinMocha&font=JetBrains%20Mono)
