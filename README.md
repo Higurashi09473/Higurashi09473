@@ -1,6 +1,6 @@
 <div class="markdown-body container-lg">
   <p dir="auto" align="center">
-    <font size="+10">Gopher | Algorithm Enthusiast | I use Arch, btw</font>
+    <font size="+10">Gopher | Algorithm Enthusiast | I use Gentoo, btw</font>
   </p>
   <p align="center">
   <img src="https://leetcard.jacoblin.cool/Higurashi?theme=catppuccinMocha&font=JetBrains%20Mono" />
